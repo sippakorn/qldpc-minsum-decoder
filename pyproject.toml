@@ -1,0 +1,10 @@
+[project]
+name = "msd"
+version = "0.1.0"
+description = "Decoding radius of min-sum with decimation on quantum LDPC codes (Plan A, 4b)"
+requires-python = ">=3.11"
+dependencies = ["numpy", "matplotlib"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

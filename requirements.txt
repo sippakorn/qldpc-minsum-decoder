@@ -1,0 +1,9 @@
+numpy>=1.26
+matplotlib>=3.8
+pytest>=8
+jupyter
+# from Lesson 2 on
+numba>=0.59
+networkx>=3.2
+sympy>=1.12
+# Lesson 8: pynauty
