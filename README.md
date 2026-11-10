@@ -24,6 +24,7 @@ msd/hgp.py, planar.py  L8
 tests/               one test file per module
 notebooks/           NB1 to NB8
 results/             CSV tables from the sprints
+detours/python/      Detour: Python for QEC (study drills, not research code)
 ```
 
 ## Conventions (fixed in Lesson 1)
